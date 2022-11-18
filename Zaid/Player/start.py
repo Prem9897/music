@@ -184,11 +184,11 @@ async def start(client: Client, message: Message):
     USERNAME = get_me.username
     buttons = [
             [
-                InlineKeyboardButton("🧐 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ", url=f'https://t.me/{USERNAME}?startgroup=true'),
+                InlineKeyboardButton("🧐 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ", url=f'https://t.me/miselisarobot?startgroup=true'),
             ],
             [
-                InlineKeyboardButton("💌 Sᴜᴘᴘᴏʀᴛ", url="https://t.me/TheSupportChat"),
-                InlineKeyboardButton("🏷️ Cʜᴀɴɴᴇʟ", url="https://t.me/TheUpdatesChannel"),
+                InlineKeyboardButton("💌 Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Elisha_support"),
+                InlineKeyboardButton("🏷️ Cʜᴀɴɴᴇʟ", url="https://t.me/denvil_bots"),
             ],
             [
                 InlineKeyboardButton("🤖 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/Itz-Zaid/Zaid-Vc-Player"),
